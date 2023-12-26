@@ -12,7 +12,7 @@ public class Faktur {
     }
 
     // Metode untuk menambahkan barang ke faktur
-    public void tambahBarang(Barang barang) {
+    public void inputBarang(Barang barang) {
         daftarBarang.add(barang);
     }
 
